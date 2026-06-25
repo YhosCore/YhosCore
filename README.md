@@ -6,14 +6,6 @@ Desarrollador de software en formación, impulsado por la curiosidad de aprender
 
 > Simplemente curioso.
 
----
-
-## 🚀 About Me
-
-Desarrollador en formación enfocado en el desarrollo de aplicaciones web, móviles y soluciones cloud. Me interesa construir software funcional, escalable y centrado en el usuario, aplicando buenas prácticas y aprendizaje continuo.
-
----
-
 ## 🛠 Tech Stack
 
 ### Frontend & UI
