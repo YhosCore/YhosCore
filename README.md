@@ -29,13 +29,17 @@ Desarrollador de software en formación, impulsado por la curiosidad de aprender
 
 ---
 
-## 🎯 Interests
+## 🎯 Intereses
 
-- Web Development  
-- Android Development  
-- Cloud Computing  
-- Software Architecture  
-- Open Source  
+- ☁️ **Cloud Computing** (Oracle Cloud, AWS Cloud Practitioner en progreso)  
+- ⚙️ **Backend Development** (Node.js, Express, PHP)  
+- 🗄️ **Bases de datos relacionales** y administración SQL  
+- 🌐 **Redes y ciberseguridad** (CCNA, fundamentos de seguridad)  
+- 🐧 **Linux** y sistemas operativos  
+- 🧠 **Arquitectura de software** y buenas prácticas de desarrollo  
+- 📱 **Desarrollo móvil** (Android con Kotlin / Jetpack Compose)  
+- 🌐 **Web Development**  
+- 📂 **Open Source**  
 
 ---
 
@@ -45,23 +49,6 @@ Desarrollador de software en formación, impulsado por la curiosidad de aprender
   <img src="https://github-readme-stats.vercel.app/api?username=YhosCore&show_icons=true&theme=github_dark" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YhosCore&layout=compact&theme=github_dark" />
 </p>
-
----
-
-## 🔥 Current Focus
-
-- AWS Cloud Practitioner ☁️  
-- React Ecosystem ⚛️  
-- Jetpack Compose 📱  
-- Software Design Patterns 🧠  
-
----
-
-## 📜 Certifications & Learning
-
-- FreeCodeCamp  
-- AWS Cloud Practitioner (in progress)  
-- Continuous learning in software development  
 
 ---
 
